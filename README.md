@@ -1,1 +1,1 @@
-# JAMF-Inventory-Preload-Docs
+# Inventory-Preload-Docs
